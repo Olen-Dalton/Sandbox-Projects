@@ -1,2 +1,2 @@
 # Sandbox-Projects
-Practice from headfirst JS
+Practice from head first JS
