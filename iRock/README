@@ -1,0 +1,4 @@
+Create the iRock html page
+Add js alert to greet the user once loaded
+write js to ask user for name, print it out personalized greeting, and make the rock smile
+Add event handler so when user clicks rock, the code from line 3 runs
